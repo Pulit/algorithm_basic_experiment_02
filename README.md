@@ -1,5 +1,5 @@
 # algorithm_basic_experiment_02
-アルゴリズム基礎　基礎実験2の回答例
+アルゴリズム基礎　基礎実験2の解答例
 
 右のほうにある緑色の Clone or Download ボタンをクリック
 Dowonload ZIPをクリックでダウンロードできます。
