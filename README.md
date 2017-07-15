@@ -1,8 +1,8 @@
 # algorithm_basic_experiment_02
 アルゴリズム基礎　基礎実験2の回答例
 
-右のほうにある緑色の Clone and Download ボタンをクリック
-Dowonload Zipをクリックでダウンロードできます。
+右のほうにある緑色の Clone or Download ボタンをクリック
+Dowonload ZIPをクリックでダウンロードできます。
 
 良く分からなかったり間違ってたら教えてください。
 
