@@ -18,14 +18,12 @@ class BinaryTree {
     while (true) {
       if ( cur.value > value ) {
         if (cur.right == null) {
-          n.parent = cur;
           cur.right = n;
           break;
         }
         cur = cur.right;
       } else {
         if (cur.left == null) {
-          n.parent = cur;
           cur.left = n;
           break;
         }
@@ -96,12 +94,11 @@ class BinaryTree {
 
 class Node { 
   int value;
-  Node left, right, parent;
+  Node left, right;
 
   Node(int _v) {
     left  = null;
     right = null;
-    parent = null;
     value = _v;
   }
 
